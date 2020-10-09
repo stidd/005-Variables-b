@@ -13,7 +13,9 @@ void draw() {
 // Step 3: Write assignment operations in draw() that 
 // change the value of the variables.
 // For example, “variable1 = variable1 + 2;”. 
-// Try different expressions and see what happens!
+
+// Step 4: Make it so when the program runs the ball slides off the screen exiting at the point (500, 500)
+
   background(255);
   stroke(0);
 
